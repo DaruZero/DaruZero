@@ -1,9 +1,8 @@
-<p align="center"><img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/></p>
+<p align="center"><img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="150"/></p>
 <!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=DaruZero&style=flat-square&color=blue" alt=""/></p> -->
 
 <h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-<p align="center"><img src="https://media.giphy.com/media/sGBMzyeEzKpySD74qv/giphy.gif" width="300"/></p>
 
 ## 👨‍💻 About me
 I am a tech-enthusiast, code-writing, LEGO-assembler nerd
@@ -12,6 +11,11 @@ I am a tech-enthusiast, code-writing, LEGO-assembler nerd
 - 👀 I'm looking for new and interesting opportunities 
 - 🥅 2022 Goals: Learn Pyhton 🐍 and contribute more to the community
 - 🗿 Fun fact: I love LEGO and anything space-related 🌌
+</br>
+</br>
+</br>
+
+<p align="center"><img src="https://media.giphy.com/media/sGBMzyeEzKpySD74qv/giphy.gif" width="500"/></p>
 
 ---
 
@@ -55,6 +59,9 @@ I am a tech-enthusiast, code-writing, LEGO-assembler nerd
 <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-plain.svg" title="Linux" alt="Linux" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="30" height="30"/>&nbsp;
 
+---
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=blueberry)
 
 [website]: https://danelon.me (My website)
 [linkedin]: https://www.linkedin.com/in/matteo-danelon/ (LinkedIn)
