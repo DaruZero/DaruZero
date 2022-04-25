@@ -61,6 +61,10 @@ I am a tech-enthusiast, code-writing, LEGO-assembler nerd
 
 ---
 
+![Metrics](./metrics.plugin.languages.details.svg)
+
+---
+
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=blueberry)
 
 [website]: https://danelon.me (My website)
