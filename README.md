@@ -1,7 +1,7 @@
 <p align="center"><img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="150"/></p>
 <!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=DaruZero&style=flat-square&color=blue" alt=""/></p> -->
 
-<h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 
 ## 👨‍💻 About me
