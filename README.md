@@ -9,7 +9,7 @@ I am a tech-enthusiast, code-writing, LEGO-assembler nerd
 
 - 🌞 Currently finishing my DevOps & Cybersecurity studies 🎓
 - 👀 I'm looking for new and interesting opportunities 
-- 🥅 2022 Goals: Learn Pyhton 🐍 and contribute more to the community
+- 🥅 2022 Goals: Learn TypeScript for fullstack development 🐍 and contribute more to the community
 - 🗿 Fun fact: I love LEGO and anything space-related 🌌
 </br>
 </br>
@@ -29,11 +29,7 @@ I am a tech-enthusiast, code-writing, LEGO-assembler nerd
 
 ## 🛠 Languages and Tools:
 
-<img src="https://github.com/devicons/devicon/raw/master/icons/azure/azure-plain.svg" title="Azure" alt="Azure" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-original.svg" title="Amazon Web Services" alt="Amazon Web Services" width="30" height="30"/>&nbsp;
-
 <img src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/dot-net/dot-net-plain.svg" title=".NET" alt=".NET" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain.svg" title="CSS" alt="CSS" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-plain.svg" title="HTML" alt="HTML" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" width="30" height="30"/>&nbsp;
@@ -44,13 +40,13 @@ I am a tech-enthusiast, code-writing, LEGO-assembler nerd
 <img src="https://github.com/devicons/devicon/raw/master/icons/k3s/k3s-original.svg" title="K3S" alt="K3S" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="30" height="30"/>&nbsp;
 
-<img src="https://github.com/devicons/devicon/raw/master/icons/jetbrains/jetbrains-plain.svg" title="JetBrains" alt="JetBrains" width="30" height="30"/>&nbsp;
+
+<img src="https://github.com/devicons/devicon/raw/master/icons/vim/vim-plain.svg" title="Vim" alt="Vim" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="30" height="30"/>&nbsp;
 
 <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-plain.svg" title="Git" alt="Git" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/gitlab/gitlab-plain.svg" title="GitLab" alt="GitLab" width="30" height="30"/>&nbsp;
 
 <img src="https://github.com/devicons/devicon/raw/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" alt="SQL Server" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-plain.svg" title="MySql" alt="MySql" width="30" height="30"/>&nbsp;
