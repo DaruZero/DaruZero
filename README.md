@@ -9,8 +9,8 @@ I am a tech-enthusiast, code-writing, LEGO-assembler nerd
 
 - 🌞 Currently finishing my DevOps & Cybersecurity studies 🎓
 - 👀 I'm looking for new and interesting opportunities 
-- 🥅 2022 Goals: Learn TypeScript for fullstack development 🐍 and contribute more to the community
-- 🗿 Fun fact: I love LEGO and anything space-related 🌌
+- 🥅 2022 Goals: Learn TypeScript for fullstack development and contribute more to the community
+- 🗿 Fun fact: I love aeronautics and anything space-related 🌌
 </br>
 </br>
 </br>
