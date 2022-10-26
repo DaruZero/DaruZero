@@ -7,10 +7,10 @@
 ## 👨‍💻 About me
 I am a tech-enthusiast, code-writing, LEGO-assembler nerd
 
-- 🌞 Currently finishing my DevOps & Cybersecurity studies 🎓
+- 🌞 Currently working as a Junior Dev @UMH Systems GmbH 🎓
 - 👀 I'm looking for new and interesting opportunities 
-- 🥅 2022 Goals: Learn TypeScript for fullstack development and contribute more to the community
-- 🗿 Fun fact: I love aeronautics and anything space-related 🌌
+- 🥅 2022 Goals: improve my programming skills and DevOps knowledge
+- 🗿 Fun fact: I love aeronautics and astrophysics 🌌
 </br>
 </br>
 </br>
