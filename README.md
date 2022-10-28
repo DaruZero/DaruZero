@@ -7,10 +7,10 @@
 ## 👨‍💻 About me
 I am a tech-enthusiast, code-writing, LEGO-assembler nerd
 
-- 🌞 Currently working as a Junior Dev @UMH Systems GmbH 🎓
+- 🌞 Currently working as a Junior Dev at UMH Systems GmbH 🏭
 - 👀 I'm looking for new and interesting opportunities 
 - 🥅 2022 Goals: improve my programming skills and DevOps knowledge
-- 🗿 Fun fact: I love aeronautics and astrophysics 🌌
+- 🗿 Fun fact: I love aeronautics and astrophysics 🚀
 </br>
 </br>
 </br>
