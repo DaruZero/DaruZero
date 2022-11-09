@@ -17,6 +17,7 @@ jobs:
           base: ""
           plugin_languages: yes
           plugin_languages_details: percentage
+          plugin_languages_ignored: rtf
           plugin_languages_threshold: 1%
           plugin_languages_other: True
           
