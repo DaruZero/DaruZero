@@ -6,11 +6,6 @@
 
 ## 👨‍💻 About me
 I am a tech-enthusiast, code-writing, LEGO-assembler nerd
-
-- 🌞 Currently working as a Junior Dev at UMH Systems GmbH 🏭
-- 👀 I'm looking for new and interesting opportunities 
-- 🥅 2022 Goals: improve my programming skills and DevOps knowledge
-- 🗿 Fun fact: I love aeronautics and astrophysics 🚀
 </br>
 </br>
 </br>
@@ -29,28 +24,31 @@ I am a tech-enthusiast, code-writing, LEGO-assembler nerd
 
 ## 🛠 Languages and Tools:
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" title="Go" alt="Go" width="30" height="30"/>&nbsp;
+<img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-plain.svg" title="Bash" alt="Bash" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain.svg" title="CSS" alt="CSS" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-plain.svg" title="HTML" alt="HTML" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="NodeJS" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-plain.svg" title="Bash" alt="Bash" width="30" height="30"/>&nbsp;
 
 <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/k3s/k3s-original.svg" title="K3S" alt="K3S" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="30" height="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" title="Helm" alt="Kubernetes" width="30" height="30"/>&nbsp;
 
-
-<img src="https://github.com/devicons/devicon/raw/master/icons/vim/vim-plain.svg" title="Vim" alt="Vim" width="30" height="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" title="NeoVim" alt="NeoVim" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="30" height="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="JetBrains" width="30" height="30"/>&nbsp;
 
 <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-plain.svg" title="Git" alt="Git" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="30" height="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="30" height="30"/>&nbsp;
 
-<img src="https://github.com/devicons/devicon/raw/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" alt="SQL Server" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-plain.svg" title="MySql" alt="MySql" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="30" height="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="30" height="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" title="Kafka" alt="Kafka" width="30" height="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="30" height="30"/>&nbsp;
 
 <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-plain.svg" title="Linux" alt="Linux" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="30" height="30"/>&nbsp;
@@ -63,5 +61,5 @@ I am a tech-enthusiast, code-writing, LEGO-assembler nerd
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=blueberry)
 
-[website]: https://danelon.me (My website)
+[website]: https://matteodanelon.com (My website)
 [linkedin]: https://www.linkedin.com/in/matteo-danelon/ (LinkedIn)
